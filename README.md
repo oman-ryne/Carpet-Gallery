@@ -19,6 +19,9 @@ Carpet Gallery is an **e-commerce platform** designed to simplify the **buying a
 - **Database:** MySQL  
 - **Server:** XAMPP
 
+Youtube Link: https://youtu.be/_Nd1-4N3fmA?si=3EHbiXpnyimtrWzF 
+
 ✉️ Contact
 For any issues or suggestions, feel free to contact:
 📧 omanryne60@gmail.com
+
