@@ -1,0 +1,225 @@
+
+body{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+#navbar{
+    width: 100%;
+    background-color: #0a984c;
+}
+/* #boost{
+    border: rgb(32, 163, 163);
+    justify-content: center;
+    padding-left: 300px;
+    align-items: center;
+    margin: 20px 10px 10px 20px;
+} */
+
+#navbarSupportedContent ul li {
+    font-size:20px;
+}
+/* Nav bar  */
+
+.navbar-nav .nav-link {
+    color: #ffffff; /* White text color */
+    font-size: 25px; /* Font size for navbar links */
+    font-weight: bold; /* Bold font weight for emphasis */
+    margin-right: 20px; /* Add space between navbar links */
+  }
+
+  .navbar-nav .nav-link:hover {
+    color: #ffc107; /* Yellow text color on hover */
+  }
+#logo{
+    width: 100%;
+    height: 50px;
+    text-decoration: none;
+}
+/* slideImage */
+#slideImage{
+    width: fit-content;
+    height: 500px;
+}
+
+#slideImage img{
+    width: 100%;
+    height: 500px;
+}
+/* features  OF OUR COMPANY PRODUCT*/
+.Features{
+    width: 100%;
+    height: 50px;
+    background-color: #7487e7;
+    border-radius: 0px 0px 10px 10px;
+    margin-left: 0px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);;
+}
+.Features h1{
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: normal;
+    text-align: left;
+    font-weight: 900;
+    padding: 2px 0px 0px 10px;
+}
+ .specialoffer{
+    width: 80%;
+    height: 50px;
+    display: inline;
+    background-color: green;
+    margin-left: 20px;
+    border-radius: 0px 0px 10px 10px;
+}
+/* Card */
+#card-container{
+    width: 100%;
+    margin-left:10px;
+}
+#card{
+    margin-left: 0px;
+    margin-top: 15px;
+}
+.card {
+    border: none;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .card:hover {
+    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.15);
+  }
+  
+  .card-img-top {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  .card-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+  }
+  
+  .card-text {
+    font-size: 0.9rem;
+    color: #6c757d;
+    margin-bottom: 1rem;
+  }
+  
+  .list-group-item {
+    border: none;
+    font-size: 0.9rem;
+    color: #6c757d;
+  }
+  
+  .btn-danger {
+    background-color: #dc3545;
+    border-color: #dc3545;
+    color: #fff;
+    font-size: 0.9rem;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .btn-danger:hover {
+    background-color: #c82333;
+    border-color: #bd2130;
+  }
+/* End of Card */
+/* massage for director */
+#massage{
+    width: 100%;
+    padding-top: 70px;
+}
+#massage img {
+    width: 300px;
+    height: fit-content;
+    border-radius: 100%;
+    display: block;
+    margin-left: 470px;
+}
+#massage h1{
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-style: italic;
+}
+.product{
+        width: 100%;
+        height: 2px;
+        padding-left: 19%;
+        margin-top: 10px;
+        background-color: #6c757d;
+        margin-bottom: 0px;
+}
+.product p{
+        text-align: left;
+        font-size: 25px;
+        font-style: oblique;
+}
+
+/* footerpart */
+#footer{
+    text-decoration: none;
+    background-color: #0a9817;
+    margin-top: 70px;
+    margin-bottom: 0px;
+    color:#fff;
+    border-radius: 15px 15px 0px 2px;
+    
+}
+.social-icons {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .social-icons li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+
+  .social-icons li:last-child {
+    margin-right: 0;
+  }
+
+  .social-icons a {
+    color: #fff;
+    background-color: #333;
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 40px;
+  }
+
+  .social-icons a:hover {
+    background-color: #555;
+  }
+
+  /* Adjust form input width */
+  form .form-control {
+    width: 100%;
+  }
+#copy1{
+    width: 100%;
+    background-color: rgb(32, 163, 163);
+    padding-top: 2px;
+    margin-top: 2px;
+}
+#Last_footer{
+    width: 100%;
+    border-radius:5px 5px 0px 0px;
+    background-color: #7487e9;
+}
+#last-footer-contain{
+    width: 100%;
+}
+/* end of the footer part */

@@ -1,0 +1,58 @@
+
+.post h2{
+    font-size: 30px;
+    color: green;
+    text-align: center;
+    font-style: oblique;
+}
+form{
+    width: 75%;
+    height: 55%;
+    font-size: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+form .news-title{
+    width: 90%;
+    padding-top: 5px ;
+    padding-left: 20px;
+}
+form .news-title input{
+    width: 100%;
+    height: 35px;
+}
+form .news-contain{
+    width: 90%;
+    padding-top: 5px ;
+    padding-left: 20px;
+}
+form .news-contain textarea{
+    width: 100%;
+    height: 50vh;
+    font-size: 18px;
+    padding-left: 10px;
+}
+form .news-post{
+    width: 90%;
+    padding-top: 5px ;
+    padding-left: 20px;
+}
+form .news-post input{
+    width: 20%;
+    height: 40px;
+    margin-right: 50%;
+
+}
+form .news-price{
+    width: 90%;
+    padding-top: 5px ;
+    padding-left: 20px;
+}
+form .news-price input{
+    width: 100%;
+    height: 35px;
+    outline: none;
+}
